@@ -5,7 +5,7 @@ One of the most important aspects of python is the ability to take work that has
 For every script in this course we will always be importing _**matplotlib.pyplot**_
 
 
-As well, we don't want to have to type matplotlib.pyplot every time that we want to reference the library, so we also give it a pseudonym and call it plt.  This means that any time that we want to use this specific library, we can reference it directly by calling it _plt_.  See more below for a specific example!
+As well, we don't want to have to type 'matplotlib.pyplot' every time we want to reference the library, therefore, we give it a pseudonym and call it 'plt'.  This means that any time that we want to use this specific library, we can reference it directly by calling it _plt_.  See more below for a specific example!
 
 
 
@@ -15,4 +15,4 @@ import matplotlib.pyplot as plt
 ```
 
 
-In addition, we can import other libraries which might be useful to us.  In general, **numpy** tends to be very nice as it allows mathematical operations with vectors, so you may hear me reference this commonly as well.
+In addition, we can import other libraries which might be useful to us.  In general, **numpy** tends to be very nice as it allows mathematical operations with vectors, so you may hear me referencing this commonly as well.
